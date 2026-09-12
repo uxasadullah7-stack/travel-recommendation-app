@@ -5,45 +5,45 @@ const recommendations = [
         name: "Maldives Beach",
         category: "Beach",
         description: "A tropical paradise with crystal clear waters and white sandy beaches.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Maldives_Beach.jpg/400px-Maldives_Beach.jpg"
+        image: "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
         name: "Bora Bora",
         category: "Beach",
         description: "Known for its turquoise lagoon and overwater bungalows.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bora_Bora_ISS006.jpg/400px-Bora_Bora_ISS006.jpg"
+        image: "https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     // Temples
     {
         name: "Angkor Wat",
         category: "Temple",
         description: "A massive Buddhist temple complex in Cambodia and the largest religious monument in the world.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Angkor_Wat%2C_Cambodia.jpg/400px-Angkor_Wat%2C_Cambodia.jpg"
+        image: "https://images.pexels.com/photos/1108458/pexels-photo-1108458.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
         name: "Kinkaku-ji (Golden Pavilion)",
         category: "Temple",
         description: "A Zen temple in Kyoto, Japan, whose top two floors are completely covered in gold leaf.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG/400px-Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG"
+        image: "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     // Countries
     {
         name: "Japan",
         category: "Country",
         description: "A blend of ancient traditions and modern technology, famous for cherry blossoms and sushi.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mount_Fuji_from_Hotel_Mt_Fuji.jpg/400px-Mount_Fuji_from_Hotel_Mt_Fuji.jpg"
+        image: "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
         name: "Italy",
         category: "Country",
         description: "Home to the Colosseum, Venice canals, and the best pizza and pasta in the world.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/400px-Colosseo_2020.jpg"
+        image: "https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
         name: "Iceland",
         category: "Country",
         description: "Land of fire and ice, known for its stunning waterfalls, geysers, and northern lights.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Iceland_Gullfoss_2005.jpg/400px-Iceland_Gullfoss_2005.jpg"
+        image: "https://images.pexels.com/photos/1009136/pexels-photo-1009136.jpeg?auto=compress&cs=tinysrgb&w=400"
     }
 ];
 
