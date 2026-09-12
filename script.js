@@ -18,7 +18,7 @@ const recommendations = [
         name: "Angkor Wat",
         category: "Temple",
         description: "A massive Buddhist temple complex in Cambodia and the largest religious monument in the world.",
-        image: "https://images.pexels.com/photos/1108458/pexels-photo-1108458.jpeg?auto=compress&cs=tinysrgb&w=400"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg5pefm660dhBsuvaNLiq5gBCjt4EnADLmUBSaYb4mJg&s=10"
     },
     {
         name: "Kinkaku-ji (Golden Pavilion)",
