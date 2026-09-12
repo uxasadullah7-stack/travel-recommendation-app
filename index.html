@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Recommendation App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Welcome to Travel Recommendation App</h1>
+            <p>Find your next dream destination! Explore beaches, temples, and countries.</p>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search for beaches, temples, or countries...">
+                <button onclick="searchRecommendation()">Search</button>
+            </div>
+        </section>
+
+        <section id="results" class="results-container">
+            <!-- Search results will be displayed here by JavaScript -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Travel Recommendation App. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
