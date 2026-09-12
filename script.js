@@ -113,3 +113,9 @@ window.onload = function() {
         displayResults(recommendations);
     }
 };
+
+// Function to clear search results
+function clearResults() {
+    document.getElementById("searchInput").value = "";
+    displayResults(recommendations); // Show all recommendations again
+}
